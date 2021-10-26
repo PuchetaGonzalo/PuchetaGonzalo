@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PuchetaGonzalo
 - 👀 I’m interested in tecnology
-- 🌱 I’m currently learning Mongo, Express, React, Node JS
+- 🌱 I’m currently learning HTML,CSS3.
 - 💞️ I’m looking to collaborate on great proyects
 
 <!---
