@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PuchetaGonzalo
 - 👀 I’m interested in tecnology
-- 🌱 I’m currently learning HTML,CSS3.
+- 🌱 I’m currently learning HTML,CSS3,JAVASCRIPT,TYPESCRIPT.
 - 💞️ I’m looking to collaborate on great proyects
 
 <!---
